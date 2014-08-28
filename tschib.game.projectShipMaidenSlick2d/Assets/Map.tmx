@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="20" height="20" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="Unbenannt" tilewidth="64" tileheight="32">
+  <image source="Unbenannt.png" trans="ffffff" width="64" height="32"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGBgHMWjeBSP4lE8iknEALhlz4pABgAA
+  </data>
+ </layer>
+</map>
